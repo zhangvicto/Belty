@@ -62,11 +62,11 @@
 // Limit Switches
 //
 #define X_MIN_PIN                           PB14
-#define X_MAX_PIN                           PA1
+#define X_MAX_PIN                           PA3
 #define Y_MIN_PIN                           PB13
 #define Y_MAX_PIN                           PA2
 #define Z_MIN_PIN                           PA0
-#define Z_MAX_PIN                           PA3
+#define Z_MAX_PIN                           PA1
 
 //
 // Filament Sensor
