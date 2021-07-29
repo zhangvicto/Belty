@@ -1,4 +1,4 @@
-![Belty V1.0](beltyv1.png)
+![Belty V1.0](./images/beltyv1.png)
 # Belty V1.0
 A custom 3D conveyor belt printer with corexy gantry and Spider mainboard using Marlin firmware. 
 
