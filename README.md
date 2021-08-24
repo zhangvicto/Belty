@@ -23,3 +23,6 @@ Ultimate Goal: Improve reliability and print quality of belt 3D printers, as wel
 - Unclogged Micros Swiss heat break using heat gun and an allen key (heat it up and push out clogged filament) 
 - Tested X and Y movement, no lost steps or jitter
 - Switched X endstop to confirm to slicer standard
+
+##Videos: 
+https://www.youtube.com/watch?v=r81HVeg5oeo
