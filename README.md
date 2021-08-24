@@ -24,5 +24,5 @@ Ultimate Goal: Improve reliability and print quality of belt 3D printers, as wel
 - Tested X and Y movement, no lost steps or jitter
 - Switched X endstop to confirm to slicer standard
 
-##Videos: 
+## Videos: 
 https://www.youtube.com/watch?v=r81HVeg5oeo
