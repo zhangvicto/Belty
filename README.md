@@ -7,15 +7,10 @@ Basic Goal: To learn more about 3D printing and how to design a 3D printer.
 Ultimate Goal: Improve reliability and print quality of belt 3D printers, as well as exploring belt options. 
 
 ## To-do
-- Crimp wires connected to power supply (waiting on crimper)
-- Learn Klipper and prepare firmware
-- Setup Octoprint with PiCam
+- Better documentation
+- Rewiring
+- Klipper 
 - Explore linear/pressure advance and input shaping with belt printer
-
-## Current Issues
-- Y homing and bed leveling with inductive probe
-- Electronics enclosure redesign needed
-- Belt shifting along rollers
 
 ## Fixed Issues
 - Redesigned Carriage belt tension bracket to tighten belts
@@ -23,6 +18,8 @@ Ultimate Goal: Improve reliability and print quality of belt 3D printers, as wel
 - Unclogged Micros Swiss heat break using heat gun and an allen key (heat it up and push out clogged filament) 
 - Tested X and Y movement, no lost steps or jitter
 - Switched X endstop to confirm to slicer standard
+- Spider board Y homing PIN changed to correspondent pin for inductive prob (default Z) - use an endstop on the gantry can make this easier
+- If your belt shifts along the rollers, try changing the bottom idler to a self-aligining one
 
 ## Videos: 
 https://www.youtube.com/watch?v=r81HVeg5oeo
